@@ -18,8 +18,8 @@ public class CallStatePlugin: NSObject, FlutterPlugin, CXCallObserverDelegate {
   }
     
   init(channel: FlutterMethodChannel){
-    super.init()
     _channel = channel
+    super.init()
     setupCallObserver()
   }
 
