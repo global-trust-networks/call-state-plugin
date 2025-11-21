@@ -1,8 +1,8 @@
 # Call State Plugin
 
 A Flutter plugin for monitoring phone call states (incoming, dialing, connected, disconnected) on Android and iOS platforms. Perfect for integrating call state monitoring with real-time communication services like Stream.
+<img width="216" height="480" alt="Screenshot_1763704664" src="https://github.com/user-attachments/assets/4f21b021-a396-4332-ac07-e8f8f2e53fe5" />
 
-![Call State Monitor App](https://github.com/yourusername/call_state_plugin/raw/main/screenshots/app_screenshot.png)
 
 ## Features
 
